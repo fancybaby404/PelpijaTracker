@@ -4,7 +4,7 @@
 <div align="center">
   <h1>PelpijaTracker</h1>
   <p>
-
+</div>
 ## 📝 | Description
 
 Pelpija tracker is a bot that tracks your valorant's account stats <br />
