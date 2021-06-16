@@ -1,20 +1,21 @@
-# PelpijaTracker
 <p align="center">
+    <h1>PelpijaTracker</h1>
   <img src="https://user-images.githubusercontent.com/53817791/122109066-8855e180-ce4f-11eb-947e-10a73147585d.jpg" alt="pelpijatracker"/>
 </p>
 
-# Description
+## 📝 | Description
 
 Pelpija tracker is a bot that tracks your valorant's account stats <br />
-Current information it displays: <br />
-• Rank<br />
-• K/D Ratio<br />
-• HS Percentage<br />
-• Total Kills<br />
-• Total Deaths<br />
-• Win Percentage<br />
-• Total Wins<br />
 
-# Adding bot to server:
+## 📂 | Inviting bot to server
 
-• Soon to be added •<br />
+```
+https://discord.com/api/oauth2/authorize?client_id=853934744324538398&permissions=19456&scope=bot
+```
+
+## ❗ | Disclaimer
+I am not affiliated nor represent tracker.gg. 
+This discord bot is only used for personal & educational purposes only
+
+## 👥 | Contact
+• https://www.youtube.com/c/fancybaby404
