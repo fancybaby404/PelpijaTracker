@@ -5,19 +5,13 @@
   <h1>PelpijaTracker</h1>
   <p>
 </div>
+
 ## 📝 | Description
-
 Pelpija tracker is a bot that tracks your valorant's account stats <br />
-
 ## 📂 | Inviting bot to server
-
-```
 https://discord.com/api/oauth2/authorize?client_id=853934744324538398&permissions=19456&scope=bot
-```
-
 ## ❗ | Disclaimer
 I am not affiliated nor represent tracker.gg. 
 This discord bot is only used for personal & educational purposes only
-
 ## 👥 | Contact
 • https://www.youtube.com/c/fancybaby404
