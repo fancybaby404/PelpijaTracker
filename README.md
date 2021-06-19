@@ -8,18 +8,23 @@
 
 ## 📝 | Description
 Pelpija tracker is a bot that tracks your valorant's account stats <br />
+There are currently four main commands in the bot.
 
-There are current two main commands in the bot.<br />
+1 | v!stats player_name#TAG
 
-❗ 1 <br />
-v!stats player_name#TAG<br />
+Displays a breif summary of your account showing your rank, your K/D, HS Percentage, Total Kills, Total Deaths, Win Percentage and Total Wins.
 
-This command shows a breif summary of your account showing your rank, your K/D, HS Percentage, Total Kills, Total Deaths, Win Percentage and Total Wins.<br />
+2 | v!topagents player_name#TAG
 
-❗ 2<br />
-v!topagents player_name#TAG<br />
+Displays a total of 6 most played valorant agents showing your total playtime, total kills, total deaths, win rate and etc.
 
-This command shows a total of 6 most played valorant agents showing your total playtime, total kills, total deaths, win rate and etc.<br />
+3 | v!topmaps player_name#TAG
+
+Shows a summary of your stats in all of the maps (6 maps), including breeze. It can track your win rate, your total matches played, your wins, and your losses.
+
+4 | v!topweapons player_name#TAG
+
+Displays a total of 6 most used weapons, displaying the number of kills, the number of deaths you died to by that weapon, and your headshots and headshot percentage.
 
 ❗ Things to keep in mind<br />
 • you have to register your account in TRN | https://tracker.gg/valorant<br />
