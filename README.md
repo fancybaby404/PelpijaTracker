@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>PelpijaTracker</h1>
+  <h1>PelpijaTracker (Abandonded)</h1>
 </div>
 
 <p align="center">
